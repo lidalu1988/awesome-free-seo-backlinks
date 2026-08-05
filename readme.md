@@ -303,14 +303,6 @@ Backlinks remain one of the strongest ranking signals in Google's algorithm. Sub
 
 ---
 
-## ❔ Unrated
-
-| Name | DR | Category | Follow | Link |
-|------|----|----------|--------|------|
-| Behance | ? | General, New |  | [Submit](https://www.behance.net/) |
-
----
-
 ## FAQ
 
 **Do directory submission sites still help SEO in 2026?**
